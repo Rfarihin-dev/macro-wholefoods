@@ -1,0 +1,651 @@
+﻿{
+    "store":  {
+                  "name":  "Macro Wholefoods Official Store",
+                  "url":  "https://shopee.com.my/macrowholefoods#product_list",
+                  "marketplace":  "Shopee Malaysia",
+                  "sellerId":  "799732738"
+              },
+    "collectedAt":  "2026-10-27",
+    "catalog":  {
+                    "reportedStoreProductCount":  38,
+                    "recoveredProductCount":  33,
+                    "complete":  false,
+                    "unrecoveredCount":  5,
+                    "note":  "Shopee\u0027s public store page reports 38 products but the live product grid was unavailable behind a login-required page. 33 unique products were recovered from storefront recommendations and indexed official-store product pages. Seller-written descriptions and current prices were not exposed in the retrieved text; null means unavailable.",
+                    "priceCoverageCount":  33,
+                    "priceNote":  "Prices were retrieved from Shopee indexed shop and product listings on 2026-10-27. The live store/product UI could not be fully checked during this scan, so displayed prices may have changed; variant prices may be incomplete. Verify the source listing before purchase."
+                },
+    "products":  [
+                     {
+                         "name":  "Rainbows Sprouted Cookies The Original / Seed / Black Sesame (150g)",
+                         "brand":  "Rainbows",
+                         "categoryPath":  "Snacks \u003e Biscuits, Cookies \u0026 Wafers",
+                         "productType":  "Biscuits, Cookies \u0026 Wafers",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/11597744185",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 12.00",
+                                       "min":  12,
+                                       "max":  null,
+                                       "note":  "3 variations; displayed listing price"
+                                   },
+                         "priceMYR":  12,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Qi Black Energy (600g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Beverages \u003e Powdered Drinks Mixes",
+                         "productType":  "Powdered Drinks Mixes",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/21891155030",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 89.00",
+                                       "min":  89,
+                                       "max":  89,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  89,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Australia Organic Rolled Oat (500g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Cereals \u003e Cereal, Oats, Granola \u0026 Muesli",
+                         "productType":  "Cereal, Oats, Granola \u0026 Muesli",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/21842783538",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 9.90",
+                                       "min":  9.9,
+                                       "max":  9.9,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  9.9,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Premium Red Rice Powder (400g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Beverages \u003e Powdered Drinks Mixes",
+                         "productType":  "Powdered Drinks Mixes",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/20752344497",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 42.90",
+                                       "min":  42.9,
+                                       "max":  42.9,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  42.9,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Black Soy Milk (500g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Milk \u0026 Chocolate Drink \u003e Flavored \u0026 Dairy Free Milk",
+                         "productType":  "Flavored \u0026 Dairy Free Milk",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/20614548710",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 53.90",
+                                       "min":  53.9,
+                                       "max":  53.9,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  53.9,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods NutriMill Organic Millet Chocolate Drink Powder (650g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Milk \u0026 Chocolate Drink \u003e Chocolate \u0026 Malt",
+                         "productType":  "Chocolate \u0026 Malt",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/19916238385",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 75.00",
+                                       "min":  75,
+                                       "max":  75,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  75,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Rice Bean (500g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Cooking Ingredients \u003e Dried Food",
+                         "productType":  "Dried Food",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/19637196235",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 10.70",
+                                       "min":  10.7,
+                                       "max":  10.7,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  10.7,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Rye Flakes Instant (500g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Cereals \u003e Cereal, Oats, Granola \u0026 Muesli",
+                         "productType":  "Cereal, Oats, Granola \u0026 Muesli",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/18944100400",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 9.90",
+                                       "min":  9.9,
+                                       "max":  9.9,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  9.9,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Black Soy Bean (500g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Cooking Ingredients \u003e Dried Food",
+                         "productType":  "Dried Food",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/18938332787",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 9.30",
+                                       "min":  9.3,
+                                       "max":  9.3,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  9.3,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Chia Seed (200g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Snacks \u003e Organic \u0026 Non-Organic Seeds",
+                         "productType":  "Organic \u0026 Non-Organic Seeds",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/18735761938",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 18.90",
+                                       "min":  18.9,
+                                       "max":  18.9,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  18.9,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Gullon Mini Fish Biscuit (350g)",
+                         "brand":  "Gullon",
+                         "categoryPath":  "Snacks \u003e Biscuits, Cookies \u0026 Wafers",
+                         "productType":  "Biscuits, Cookies \u0026 Wafers",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/25919955981",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 10.50",
+                                       "min":  10.5,
+                                       "max":  10.5,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  10.5,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Red Yeast Rice \u0026 Beetroot Full Grains Milk (650g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Milk \u0026 Chocolate Drink \u003e Flavored \u0026 Dairy Free Milk",
+                         "productType":  "Flavored \u0026 Dairy Free Milk",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/19845148376",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 66.00",
+                                       "min":  66,
+                                       "max":  66,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  66,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Hulled Buckwheat (500g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Cooking Ingredients \u003e Dried Food",
+                         "productType":  "Dried Food",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/17893994479",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 9.50",
+                                       "min":  9.5,
+                                       "max":  9.5,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  9.5,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "GBT Quinoa Wheat Fiber Cracker (110g)",
+                         "brand":  "GBT",
+                         "categoryPath":  "Snacks \u003e Biscuits, Cookies \u0026 Wafers",
+                         "productType":  "Biscuits, Cookies \u0026 Wafers",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/18348381991",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 10.90",
+                                       "min":  10.9,
+                                       "max":  10.9,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  10.9,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Lino Sacha Inchi Oil Extra Virgin Cold Pressed (250ml)",
+                         "brand":  "Lino",
+                         "categoryPath":  "Cooking Ingredients \u003e Cooking Oil",
+                         "productType":  "Cooking Oil",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/18534646981",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 150.00",
+                                       "min":  150,
+                                       "max":  150,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  150,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Black Sesame Seed (200g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Snacks \u003e Organic \u0026 Non-Organic Seeds",
+                         "productType":  "Organic \u0026 Non-Organic Seeds",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/19437088298",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 9.50",
+                                       "min":  9.5,
+                                       "max":  9.5,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  9.5,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods 7 Days Super Berries Essence Blend Powder (600g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Beverages \u003e Powdered Drinks Mixes",
+                         "productType":  "Powdered Drinks Mixes",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/20334913290",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 139.00",
+                                       "min":  139,
+                                       "max":  139,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  139,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Hulled Millet (500g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Cooking Ingredients \u003e Dried Food",
+                         "productType":  "Dried Food",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/20551801892",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 8.90",
+                                       "min":  8.9,
+                                       "max":  8.9,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  8.9,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Super Oat 123 (450g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Beverages \u003e Powdered Drinks Mixes",
+                         "productType":  "Powdered Drinks Mixes",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/16476614075",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 54.90",
+                                       "min":  54.9,
+                                       "max":  54.9,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  54.9,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "GBT Oat Germ Organic Almond \u0026 Coconut Cookies (180g)",
+                         "brand":  "GBT",
+                         "categoryPath":  "Snacks \u003e Biscuits, Cookies \u0026 Wafers",
+                         "productType":  "Biscuits, Cookies \u0026 Wafers",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/13796626182",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 9.90",
+                                       "min":  9.9,
+                                       "max":  9.9,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  9.9,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Avocado Nutri Drink Powder (600g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Beverages \u003e Powdered Drinks Mixes",
+                         "productType":  "Powdered Drinks Mixes",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/16287494494",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 99.00",
+                                       "min":  99,
+                                       "max":  99,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  99,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Olitalia Extra Virgin Olive Oil (250ml/1L)",
+                         "brand":  "Olitalia",
+                         "categoryPath":  "Cooking Ingredients \u003e Cooking Oil",
+                         "productType":  "Cooking Oil",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/18334581010",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 88.00",
+                                       "min":  88,
+                                       "max":  null,
+                                       "note":  "2 variations; full variant price range not shown"
+                                   },
+                         "priceMYR":  88,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Clearspring Organic Avocado Oil (250ml)",
+                         "brand":  "Clearspring",
+                         "categoryPath":  "Cooking Ingredients \u003e Cooking Oil",
+                         "productType":  "Cooking Oil",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/18434596602",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 61.90",
+                                       "min":  61.9,
+                                       "max":  61.9,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  61.9,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Australia Organic Instant Baby Oat (500g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Cereals \u003e Cereal, Oats, Granola \u0026 Muesli",
+                         "productType":  "Cereal, Oats, Granola \u0026 Muesli",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/18742791609",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 9.60",
+                                       "min":  9.6,
+                                       "max":  9.6,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  9.6,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Ever 18 Natural Anti-aging Beauty Drink (650g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Beverages \u003e Powdered Drinks Mixes",
+                         "productType":  "Powdered Drinks Mixes",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/18816273179",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 99.00",
+                                       "min":  99,
+                                       "max":  99,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  99,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Raw Pumpkin Seed (200g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Snacks \u003e Organic \u0026 Non-Organic Seeds",
+                         "productType":  "Organic \u0026 Non-Organic Seeds",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/18837102933",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 10.90",
+                                       "min":  10.9,
+                                       "max":  10.9,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  10.9,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Soy Milk (650g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Milk \u0026 Chocolate Drink \u003e Flavored \u0026 Dairy Free Milk",
+                         "productType":  "Flavored \u0026 Dairy Free Milk",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/18915114466",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 56.00",
+                                       "min":  56,
+                                       "max":  56,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  56,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Plant Based Protein Powder (650g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Health \u0026 Beauty \u003e Supplements \u003e Sports Nutrition",
+                         "productType":  "Sports Nutrition",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/19215162565",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 99.00",
+                                       "min":  99,
+                                       "max":  99,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  99,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Full Grain Milk (650g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Milk \u0026 Chocolate Drink \u003e Flavored \u0026 Dairy Free Milk",
+                         "productType":  "Flavored \u0026 Dairy Free Milk",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/13296275160",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 66.00",
+                                       "min":  66,
+                                       "max":  66,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  66,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Garbanzo Bean (500g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Cooking Ingredients \u003e Dried Food",
+                         "productType":  "Dried Food",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/19437439764",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 14.50",
+                                       "min":  14.5,
+                                       "max":  14.5,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  14.5,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Sacha Inchi Roasted Nuts (220g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Snacks \u003e Nuts",
+                         "productType":  "Nuts",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/19744801974",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 35.00–RM 59.00",
+                                       "min":  35,
+                                       "max":  59,
+                                       "note":  "5 variations"
+                                   },
+                         "priceMYR":  null,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Macro Wholefoods Organic Barley Flakes (500g)",
+                         "brand":  "Macro Wholefoods",
+                         "categoryPath":  "Cereals \u003e Cereal, Oats, Granola \u0026 Muesli",
+                         "productType":  "Cereal, Oats, Granola \u0026 Muesli",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/18345541486",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 8.90",
+                                       "min":  8.9,
+                                       "max":  8.9,
+                                       "note":  ""
+                                   },
+                         "priceMYR":  8.9,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     },
+                     {
+                         "name":  "Bragg Organic Apple Cider Vinegar (473ml/946ml)",
+                         "brand":  "Bragg",
+                         "categoryPath":  "Beverages \u003e Juice, Nutritional Drinks \u0026 Organic Drinks",
+                         "productType":  "Juice, Nutritional Drinks \u0026 Organic Drinks",
+                         "description":  null,
+                         "sourceUrl":  "https://shopee.com.my/product/799732738/19848319811",
+                         "sourceStatus":  "Name identified from Shopee; categoryPath uses an indexed Shopee breadcrumb where available and title-based classification otherwise",
+                         "price":  {
+                                       "currency":  "MYR",
+                                       "display":  "RM 22.90–RM 36.90",
+                                       "min":  22.9,
+                                       "max":  36.9,
+                                       "note":  "2 variations"
+                                   },
+                         "priceMYR":  null,
+                         "priceRetrievedAt":  "2026-10-27",
+                         "priceSource":  "Shopee indexed store/product listing"
+                     }
+                 ],
+    "sources":  [
+                    "https://shopee.com.my/macrowholefoods#product_list",
+                    "https://shopee.com.my/macrowholefoods"
+                ]
+}

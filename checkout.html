@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Checkout | Macro Wholefoods</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&amp;family=Fraunces:wght@600;700&amp;display=swap"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body data-page="checkout">
+    <main class="wrap">
+      <section id="step-details">
+        <h1>Checkout</h1>
+        <div class="cols">
+          <form id="form">
+            <h2>Your details</h2>
+            <label for="name">Full name</label
+            ><input id="name" required autocomplete="name" />
+            <label for="phone">Phone</label
+            ><input
+              id="phone"
+              type="tel"
+              required
+              pattern="[0-9+\- ]{9,15}"
+              title="Digits only, e.g. 012-345 6789"
+              autocomplete="tel"
+            />
+            <label for="email">Email</label
+            ><input id="email" type="email" required autocomplete="email" />
+            <h2 style="margin-top: 24px">Delivery method</h2>
+            <label class="opt"
+              ><input type="radio" name="delivery" value="delivery" checked />
+              Delivery (RM5.00)</label
+            >
+            <label class="opt"
+              ><input type="radio" name="delivery" value="pickup" /> Pickup at
+              shop (free)</label
+            >
+            <div id="addr">
+              <label for="address">Address</label
+              ><input id="address" autocomplete="street-address" />
+              <label for="postcode">Postcode</label
+              ><input
+                id="postcode"
+                inputmode="numeric"
+                pattern="[0-9]{5}"
+                title="5 digits"
+                autocomplete="postal-code"
+              />
+              <label for="city">City</label
+              ><input id="city" autocomplete="address-level2" />
+            </div>
+            <p>
+              <button class="btn" type="submit">Continue to payment</button>
+            </p>
+          </form>
+          <aside class="sum" id="sum"></aside>
+        </div>
+      </section>
+
+      <section id="step-pay" hidden>
+        <h1>Payment</h1>
+        <p class="demo">DEMO ONLY: no real payment will be made.</p>
+        <div class="sum">
+          <p class="muted" id="pay-order"></p>
+          <p class="price big" id="pay-amt"></p>
+        </div>
+        <h2 style="margin-top: 24px">Choose payment method</h2>
+        <label class="opt"
+          ><input type="radio" name="pm" checked /> Online Banking (FPX)</label
+        >
+        <label class="opt"
+          ><input type="radio" name="pm" /> Credit / Debit Card</label
+        >
+        <label class="opt"><input type="radio" name="pm" /> E-Wallet</label>
+        <p>
+          <button class="btn" id="pay"></button>
+          <button class="btn alt" id="back" type="button">Back</button>
+        </p>
+        <p><a href="cart.html">Cancel and return to cart</a></p>
+      </section>
+
+      <section id="step-wait" hidden>
+        <h1>Processing demo payment…</h1>
+        <div class="spin"></div>
+        <p role="status">Please wait.</p>
+      </section>
+
+      <section id="step-done" hidden>
+        <h1>Order received</h1>
+        <p>
+          Thank you, <span id="d-name"></span>. Your order number is
+          <strong id="d-no"></strong>.
+        </p>
+        <p id="d-how"></p>
+        <p class="demo">Demo order. No payment was taken.</p>
+        <a class="btn" href="shop.html">Back to shop</a>
+      </section>
+    </main>
+    <script src="assets/js/data.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

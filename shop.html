@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Shop | Macro Wholefoods</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body data-page="shop">
+    <main class="wrap shop-page">
+      <h1>Shop</h1>
+
+      <div class="shop-layout">
+        <aside class="shop-sidebar" aria-label="Product filters">
+          <label for="search">Search products</label>
+          <input id="search" type="search" placeholder="Search products" />
+
+          <h2>Categories</h2>
+          <nav class="cat-list" id="chips" aria-label="Categories"></nav>
+
+          <form class="price-filter" id="price-range">
+            <h2>Price range</h2>
+            <div class="price-inputs">
+              <input
+                id="min-price"
+                type="number"
+                min="0"
+                step="0.01"
+                placeholder="Min RM"
+                aria-label="Minimum price"
+              />
+              <input
+                id="max-price"
+                type="number"
+                min="0"
+                step="0.01"
+                placeholder="Max RM"
+                aria-label="Maximum price"
+              />
+            </div>
+            <button class="btn green" type="submit">Apply</button>
+          </form>
+        </aside>
+
+        <section class="shop-main" aria-label="Products">
+          <div class="shop-sortbar">
+            <label for="sort-by">Sort by:</label>
+            <select id="sort-by">
+              <option value="default">Default</option>
+              <option value="low-high">Price: Low to High</option>
+              <option value="high-low">Price: High to Low</option>
+            </select>
+          </div>
+          <div class="grid shop-grid" id="grid"></div>
+        </section>
+      </div>
+    </main>
+
+    <script src="assets/js/data.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
