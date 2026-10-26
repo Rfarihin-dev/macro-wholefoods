@@ -319,4 +319,8 @@ The carbon tracking, customer accounts and PDF receipt features from the origina
 
 Developed for academic purposes under Web Programming (DITM 2123) and System Development Workshop (DITU 3934). The Macro Wholefoods name, logo, product names and product images belong to Macro Organic Sdn. Bhd. and are used for this project with the client's knowledge. [Group to confirm that written permission from the client has been obtained.]
 
-Code licence: [Group to choose, or state "All rights reserved, academic submission"].
+Code licence: All rights reserved. This repository is an academic submission for
+Web Programming (DITM 2123) and System Development Workshop (DITU 3934), UTeM.
+It may not be copied, modified or redistributed without permission from the
+project group. Brand assets (name, logo, product names and images) belong to
+Macro Organic Sdn. Bhd.
